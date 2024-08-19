@@ -1,0 +1,14 @@
+Cách 1: Chạy từ Command Prompt
+1. Mở Command Prompt trên máy tính
+2. Truy cập file bằng lệnh cd + <vị trí file>
+3. Nhập lệnh nmp start
+4. Truy cập bằng đường link được hiển thị
+
+Cách 2: Chạy từ terminal của VS Code
+1. Mở file trong VS Code và mở terminal
+2. Nhập lệnh nmp start
+3. Truy cập bằng đường link được hiển thị
+
+Lưu ý với cách 2: Nếu chạy file bằng terminal báo lỗi, có thể do máy tính chặn chạy tập lệnh.
+Hãy mở Command Prompt và nhập lệnh Set-ExecutionPolicy RemoteSigned, sau đó chọn y để đồng ý
+Thực hiện lại theo cách 2
